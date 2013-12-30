@@ -1,4 +1,4 @@
-### First Operating System for Raspberry Pi
+### First Operating System for Raspberry Pi (Tested on Model B Rev. 2)
 
 #### Soroush Jamali Pour
 #### 30-Dec-2013
